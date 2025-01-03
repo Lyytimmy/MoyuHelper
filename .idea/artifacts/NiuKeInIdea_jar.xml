@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NiuKeInIdea:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NiuKeInIdea_jar</output-path>
+    <root id="archive" name="NiuKeInIdea.jar" />
+  </artifact>
+</component>
